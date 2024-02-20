@@ -1,0 +1,29 @@
+/* h1, h2, h3, h4, h5 { */
+/*   color: #F5F3F4; } */
+
+/* p { */
+/*   color: #FCF7F8; } */
+
+/* ul { */
+/*   color: #FCF7F8; } */
+
+/* body { */
+/*   background-color: #231F20; */
+/*   font-family: "Sometype Mono", monospace; } */
+
+/* a { */
+/*   color: #EF6461; */
+/*   text-decoration: none; } */
+
+/* /1* table style *1/ */
+/* td { */
+/*   background-color: #231F20; */
+/*   color: #FCF7F8; } */
+
+/* th { */
+/*   background-color: #231F20; */
+/*   color: #FCF7F8; } */
+
+section {
+  margin-top: 3rem;
+}
